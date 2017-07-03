@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "publications.html",
+    "currentPage": "popular.html",
     "versionFirst": "3.6.1",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -23,7 +23,7 @@
         "isRtl": false
       }
     },
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -389,7 +389,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -623,7 +623,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -1011,7 +1011,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Conference presentations:</b></p><p><br></p><p>Label-free, low-phototoxicity imaging of marine organisms and communities. July 18, 2017. Whitman Center Research Awardees seminars.</p><p><br></p><p>Establishing and Providing Light Microscopy Core Facility Services. Oct 2016\tRoyal Microscopical Society, London, UK.</p><p><br></p><p>Assessing, Reducing and Reporting Phototoxicity&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">In Lightsheet and Conventional Fluorescence Microscopy.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Alghamdi R, Exposito-Rodriguez M and Laissue PP.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">LSFM2016, 3rd international conference on light-sheet fluorescence microscopy, Sheffield, UK. 31.8.-3.9.2016:&nbsp;</span></p><p><br></p><p>Phototoxicity. 2nd practical EMBO course on light-sheet fluorescence microscopy, Dresden, DE. 15.–26.08.2016.</p><p> </p><p><br></p><p>Long-term development of photosensitive reef-building corals. 2nd practical EMBO course on light-sheet fluorescence microscopy, Dresden, DE. 15.–26.08.2016. &nbsp;</p><p><br></p><p>Photodamage in fluorescence microscopy, and how to avoid it. Institute of Anatomy, Bern, CH, March 2016.&nbsp;</p><p>&nbsp;</p><p>Low-light microscopy with minimal phototoxicity. Biophysical Society Meeting, Los Angeles, USA. March 2016.</p><p><br></p><p>Looking at life as it unfolds. TEDx talk, University of Essex, Jun 2015.&nbsp;</p><p><br></p><p>Live morphology and development of reef-building corals using light sheet fluorescence microscopy. Laissue PP, Smith DJ, Qian C &amp; Gu Y. 1st LightSheet Fluorescence Microscopy International Conference, Sep 2014.&nbsp;</p><p><br></p><p>Development of reef-building corals. Laissue PP, Boguslaw O &amp; Smith DJ. International Microscopy Congress, Sep 2014.&nbsp;</p><p><br></p><p>Quantified phenotype analysis in a cell model for Autosomal Dominant Retinitis Pigmentosa. Alghamdi RA, Boguslaw O, South K, Opefi CA, Reeves PJ, Laissue PP. International Microscopy Congress, Sep 2014.&nbsp;</p><p><br></p><p>Speeding Up Active Mesh Segmentation by Local Termination of Nodes. Nelson CJ, Dixon M, Laissue PP &amp; Obara B. Medical Image Understanding &amp; Analysis, Jul 2014.&nbsp;</p><p><br></p><p>Image acquisition and analysis for environmental sciences. Exeter Imaging &amp; image analysis seminar series. Laissue PP. Nov 2013.&nbsp;</p><p><br></p><p>High light exposure of leaves elicits rapid changes in hydrogen peroxide levels: new insights and limitations using HyPer. Exposito-Rodriguez M, Laissue PP, Smirnoff N, Mullineaux PM. BioTechnologia. Journal of Biotechnology Computational Biology and Bionanotechnology, 94(2) pp. 149-151.&nbsp;</p><p><br></p><p>Live cell and tissue imaging for marine organisms. Marine Biology Live Cell Imaging workshop and conference. Laissue PP. Roscoff, France, Jun 2013.&nbsp;</p><p><br></p><p>Live morphology and dynamics of reef-building corals using high-resolution, label-free, quantified microscopy. Laissue PP, Obara B, Smart R and Smith D. Focus on Microscopy, Mar 2013.&nbsp;</p><p><br></p><p>Quantified, three-dimensional, object-based colocalisation for characterising cellular phenotypes. Obara B, Alghamdi R, Jabeen A, Fernandez N, South K, Reeves PJ &amp; Laissue PP. 26th International Conference on 3D Image Processing in Microscopy, Focus on Microscopy, Mar 2013.&nbsp;</p><p><br></p><p>Living on the edge: New imaging tools in coral biology. Laissue PP. Coral Aquarist Research Network, Zoological Society London, 26 May 2012.&nbsp;</p><p><br></p><p>The thermal stability and cellular localisation of constitutively active rhodopsin mutants Gly90Asp and Gly90Val. South K, Laissue PP, Opefi CA, Eilers M, Smith SO, Reeves PJ. Proceedings of Biochemical Society Focused Meeting, Sep 2011, Essex, UK.&nbsp;</p><p><br></p><p>Study of MHC class I molecules associations: Is receptor interaction at the cell-surface important at the feto-maternal interface? Jabeen A, Laissue PP, Jain P, Shakhawat A, Shaikly V and Fernández, N. Journal of Reproductive Immunology, 90 (2). pp. 144-145, 2011.&nbsp;</p><p><br></p><p>Physical interactions of HLA-G with MHC class I partner molecules on the surface of two trophoblast cell lines, JEG-3 and ACH-3P, by Förster resonance energy transfer based on fluorescence lifetime measurements. Jabeen A, Jain P, Laissue PP, Suhling K, Levitt JA, Shaikly V, Shakhawat A, and Fernández N. 8th European Conference on Reproductive Immunology, 2010.&nbsp;</p><p><br></p><p>Dynamics of the actin and myosin cytoskeleton in Ashbya gossypii. Laissue PP, Helfer HP, Schmitz HP, Knechtle P and Philippsen P. Microscopic Image Analysis with Applications in Biology (MIAAB), New York, USA, 2008.&nbsp;</p><p><br></p><p>Denoising based on noise parameter estimation in speckled OCT images using neural network. Avanaki MRN, Laissue PP, Podoleanu AG, Hojjat A. Proceedings of 1st Canterbury Workshop on Optical Coherence Tomography &amp; Adaptive Optics, 8-10 Sep. 2008.&nbsp;</p><p><br></p><p>An optical coherence tomography investigation on materials defects in ceramic fixed partial dental prostheses. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Rominu M, Laissue PP. Proceedings of SPIE Vol. 6987, [6991-22], 2008.&nbsp;</p><p><br></p><p>Implant bone interface investigated with a non-invasive method: optical coherence tomography. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Antonie S, Laissue PP, Rominu M. Proceedings of SPIE Vol. 6987, [6991-56], 2008.&nbsp;</p><p><br></p><p>The optical coherence tomography implied in the quality of bracket bonding in orthodontic treatments. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Laissue PP, Rominu R, Dodenciu D. Proceedings of SPIE Vol. 6987, [6991-57], 2008.&nbsp;</p><p><br></p><p>Root canal filling evaluation using optical coherence tomography. Negrutiu MLV, Sinescu CGH, Podoleanu AG, Todea CC, Laissue PP, Balabuc CI, Filip LM. Proceedings of SPIE Vol. 6987, [6991-65], 2008.&nbsp;</p><p><br></p><p>High tolerance of the rat spinal cord to microplanar irradiation. Laissue JA, Blattmann H, Bräuer-Krisch E, Bravin A, Dalléry D, Hanson AL, Hopewell JW, Kaser-Hotz B, Keyriläinen J, Laissue PP, Le Duc G, Slatkin DN, Siegbahn E, Miura M. SYRAD Workshop ‘New prospects for brain tumour radiotherapy’, June 2008.&nbsp;</p><p><br></p><p>Dynamics of the actin and myosin cytoskeleton in Ashbya gossypii. Laissue PP, Helfer HP, Schmitz HP, Knechtle P and Philippsen P. XXII International Conference on Yeast Genetics &amp; Molecular Biology, Bratislava 2005.&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The complex inner life of a glomerulus in the antennal lobe of Drosophila. Halter S, Laissue PP and Stocker RF. 13th Congress of the European Chemoreception Research Organisation (ECRO XIII), Siena, Italy, 1998.&nbsp;</span><br></p><p><br></p><p>Utilizing 3D reconstruction techniques for the analysis of the antennal lobe of Drosophila. Laissue PP, Reiter C, Hiesinger PR, Halter S, Fischbach KF and Stocker RF. Proceedings of the 25th Göttingen Neurobiology Conference; Vol. II., p. 414, 1997.&nbsp;</p><p><br></p><p>Plasticity of the glomerular pattern and of the contralateral connectivity in the antennal lobe of Drosophila. Halter S, Heimbeck G, Laissue PP, Reiter C, and Stocker RF. Proceedings of the 25th Göttingen Neurobiology Conference; Vol. II., p. 415, 1997.</p><p><br></p><p><b>Other:</b></p><p><b><br></b></p><p>Light-Sheet Fluorescence&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Microscopy Conference 2016. Conference report. InFocus, Issue 44, December 2016. <b>PDF</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Live long and prosper: The beauty and power of light-sheet microscopy. news-medical.net, Nov 2016. </span><b style=\"font-size: 1.07rem; line-height: 1.5;\">PDF</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b>Looking at life as it unfolds. <b>TEDx talk</b>. July 2015.</p><p><br></p><p>Light sheets converged in Barcelona for their first open conference. Event report. G.I.T. Imaging &amp; Microscopy, April 2014. <b>PDF</b></p><p><b><br></b></p><p><b><br></b></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><b>Conference presentations:</b></p><p><br></p><p>Label-free, low-phototoxicity imaging of marine organisms and communities. July 18, 2017. Whitman Center Research Awardees seminars.</p><p><br></p><p>Establishing and Providing Light Microscopy Core Facility Services. Oct 2016\tRoyal Microscopical Society, London, UK.</p><p><br></p><p>Assessing, Reducing and Reporting Phototoxicity&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">In Lightsheet and Conventional Fluorescence Microscopy.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Alghamdi R, Exposito-Rodriguez M and Laissue PP.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">LSFM2016, 3rd international conference on light-sheet fluorescence microscopy, Sheffield, UK. 31.8.-3.9.2016:&nbsp;</span></p><p><br></p><p>Phototoxicity. 2nd practical EMBO course on light-sheet fluorescence microscopy, Dresden, DE. 15.–26.08.2016.</p><p> </p><p><br></p><p>Long-term development of photosensitive reef-building corals. 2nd practical EMBO course on light-sheet fluorescence microscopy, Dresden, DE. 15.–26.08.2016. &nbsp;</p><p><br></p><p>Photodamage in fluorescence microscopy, and how to avoid it. Institute of Anatomy, Bern, CH, March 2016.&nbsp;</p><p>&nbsp;</p><p>Low-light microscopy with minimal phototoxicity. Biophysical Society Meeting, Los Angeles, USA. March 2016.</p><p><br></p><p>Looking at life as it unfolds. TEDx talk, University of Essex, Jun 2015.&nbsp;</p><p><br></p><p>Live morphology and development of reef-building corals using light sheet fluorescence microscopy. Laissue PP, Smith DJ, Qian C &amp; Gu Y. 1st LightSheet Fluorescence Microscopy International Conference, Sep 2014.&nbsp;</p><p><br></p><p>Development of reef-building corals. Laissue PP, Boguslaw O &amp; Smith DJ. International Microscopy Congress, Sep 2014.&nbsp;</p><p><br></p><p>Quantified phenotype analysis in a cell model for Autosomal Dominant Retinitis Pigmentosa. Alghamdi RA, Boguslaw O, South K, Opefi CA, Reeves PJ, Laissue PP. International Microscopy Congress, Sep 2014.&nbsp;</p><p><br></p><p>Speeding Up Active Mesh Segmentation by Local Termination of Nodes. Nelson CJ, Dixon M, Laissue PP &amp; Obara B. Medical Image Understanding &amp; Analysis, Jul 2014.&nbsp;</p><p><br></p><p>Image acquisition and analysis for environmental sciences. Exeter Imaging &amp; image analysis seminar series. Laissue PP. Nov 2013.&nbsp;</p><p><br></p><p>High light exposure of leaves elicits rapid changes in hydrogen peroxide levels: new insights and limitations using HyPer. Exposito-Rodriguez M, Laissue PP, Smirnoff N, Mullineaux PM. BioTechnologia. Journal of Biotechnology Computational Biology and Bionanotechnology, 94(2) pp. 149-151.&nbsp;</p><p><br></p><p>Live cell and tissue imaging for marine organisms. Marine Biology Live Cell Imaging workshop and conference. Laissue PP. Roscoff, France, Jun 2013.&nbsp;</p><p><br></p><p>Live morphology and dynamics of reef-building corals using high-resolution, label-free, quantified microscopy. Laissue PP, Obara B, Smart R and Smith D. Focus on Microscopy, Mar 2013.&nbsp;</p><p><br></p><p>Quantified, three-dimensional, object-based colocalisation for characterising cellular phenotypes. Obara B, Alghamdi R, Jabeen A, Fernandez N, South K, Reeves PJ &amp; Laissue PP. 26th International Conference on 3D Image Processing in Microscopy, Focus on Microscopy, Mar 2013.&nbsp;</p><p><br></p><p>Living on the edge: New imaging tools in coral biology. Laissue PP. Coral Aquarist Research Network, Zoological Society London, 26 May 2012.&nbsp;</p><p><br></p><p>The thermal stability and cellular localisation of constitutively active rhodopsin mutants Gly90Asp and Gly90Val. South K, Laissue PP, Opefi CA, Eilers M, Smith SO, Reeves PJ. Proceedings of Biochemical Society Focused Meeting, Sep 2011, Essex, UK.&nbsp;</p><p><br></p><p>Study of MHC class I molecules associations: Is receptor interaction at the cell-surface important at the feto-maternal interface? Jabeen A, Laissue PP, Jain P, Shakhawat A, Shaikly V and Fernández, N. Journal of Reproductive Immunology, 90 (2). pp. 144-145, 2011.&nbsp;</p><p><br></p><p>Physical interactions of HLA-G with MHC class I partner molecules on the surface of two trophoblast cell lines, JEG-3 and ACH-3P, by Förster resonance energy transfer based on fluorescence lifetime measurements. Jabeen A, Jain P, Laissue PP, Suhling K, Levitt JA, Shaikly V, Shakhawat A, and Fernández N. 8th European Conference on Reproductive Immunology, 2010.&nbsp;</p><p><br></p><p>Dynamics of the actin and myosin cytoskeleton in Ashbya gossypii. Laissue PP, Helfer HP, Schmitz HP, Knechtle P and Philippsen P. Microscopic Image Analysis with Applications in Biology (MIAAB), New York, USA, 2008.&nbsp;</p><p><br></p><p>Denoising based on noise parameter estimation in speckled OCT images using neural network. Avanaki MRN, Laissue PP, Podoleanu AG, Hojjat A. Proceedings of 1st Canterbury Workshop on Optical Coherence Tomography &amp; Adaptive Optics, 8-10 Sep. 2008.&nbsp;</p><p><br></p><p>An optical coherence tomography investigation on materials defects in ceramic fixed partial dental prostheses. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Rominu M, Laissue PP. Proceedings of SPIE Vol. 6987, [6991-22], 2008.&nbsp;</p><p><br></p><p>Implant bone interface investigated with a non-invasive method: optical coherence tomography. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Antonie S, Laissue PP, Rominu M. Proceedings of SPIE Vol. 6987, [6991-56], 2008.&nbsp;</p><p><br></p><p>The optical coherence tomography implied in the quality of bracket bonding in orthodontic treatments. Sinescu CGH, Podoleanu AG, Negrutiu MLV, Todea CC, Laissue PP, Rominu R, Dodenciu D. Proceedings of SPIE Vol. 6987, [6991-57], 2008.&nbsp;</p><p><br></p><p>Root canal filling evaluation using optical coherence tomography. Negrutiu MLV, Sinescu CGH, Podoleanu AG, Todea CC, Laissue PP, Balabuc CI, Filip LM. Proceedings of SPIE Vol. 6987, [6991-65], 2008.&nbsp;</p><p><br></p><p>High tolerance of the rat spinal cord to microplanar irradiation. Laissue JA, Blattmann H, Bräuer-Krisch E, Bravin A, Dalléry D, Hanson AL, Hopewell JW, Kaser-Hotz B, Keyriläinen J, Laissue PP, Le Duc G, Slatkin DN, Siegbahn E, Miura M. SYRAD Workshop ‘New prospects for brain tumour radiotherapy’, June 2008.&nbsp;</p><p><br></p><p>Dynamics of the actin and myosin cytoskeleton in Ashbya gossypii. Laissue PP, Helfer HP, Schmitz HP, Knechtle P and Philippsen P. XXII International Conference on Yeast Genetics &amp; Molecular Biology, Bratislava 2005.&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The complex inner life of a glomerulus in the antennal lobe of Drosophila. Halter S, Laissue PP and Stocker RF. 13th Congress of the European Chemoreception Research Organisation (ECRO XIII), Siena, Italy, 1998.&nbsp;</span><br></p><p><br></p><p>Utilizing 3D reconstruction techniques for the analysis of the antennal lobe of Drosophila. Laissue PP, Reiter C, Hiesinger PR, Halter S, Fischbach KF and Stocker RF. Proceedings of the 25th Göttingen Neurobiology Conference; Vol. II., p. 414, 1997.&nbsp;</p><p><br></p><p>Plasticity of the glomerular pattern and of the contralateral connectivity in the antennal lobe of Drosophila. Halter S, Heimbeck G, Laissue PP, Reiter C, and Stocker RF. Proceedings of the 25th Göttingen Neurobiology Conference; Vol. II., p. 415, 1997.</p><p><b><br></b></p><p><b><br></b></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1109,7 +1109,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"publications.html\" aria-expanded=\"false\">PUBLICATIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -1127,6 +1127,134 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "popular.html": {
+      "settings": {
+        "title": "Popular science and conference reports",
+        "meta_descr": "Popular science and conference reports"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/seal-128x128-69.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-e",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"http://www.bloomsbury.com/uk/churchill-and-the-bomb-in-war-and-cold-war-9781472532169/\" target=\"_blank\">Churchill and the bomb</a>, by <a href=\"https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/history/research-profiles/kevin-ruane.aspx\" target=\"_blank\">Kevin Ruane</a>. A thumping good read. I advised on the science part.</p><p><br></p><p>Light-Sheet Fluorescence Microscopy Conference 2016. Conference report. InFocus, Issue 44, December 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NmZlMGFjOGI1MWRhOTQyYQ\" target=\"_blank\">PDF</a></p><p><br></p><p>Live long and prosper: The beauty and power of light-sheet microscopy. Article for news-medical.net, Nov 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6MmNmMzQxNjkyYjVmMDI3Yg\" target=\"_blank\">PDF</a></p><p><br></p><p>Looking at life as it unfolds. <a href=\"https://www.youtube.com/watch?v=nEPulUo_coU\" target=\"_blank\">TEDx talk</a>. July 2015.</p><p><br></p><p>Light sheets converged in Barcelona for their first open conference. Event report. G.I.T. Imaging &amp; Microscopy, April 2014. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NjRmYWJlMmZkZjNkNWJkYQ\" target=\"_blank\">PDF</a></p>"
         }
       ]
     }
