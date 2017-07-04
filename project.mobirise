@@ -23,7 +23,7 @@
         "isRtl": false
       }
     },
-    "uniqCompNum": 15,
+    "uniqCompNum": 18,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -389,7 +389,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -623,7 +623,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -1109,7 +1109,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -1224,7 +1224,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
         },
         {
           "_name": "footer1",
@@ -1255,6 +1255,134 @@
             "bgColor": "#fff"
           },
           "text": "<p><a href=\"http://www.bloomsbury.com/uk/churchill-and-the-bomb-in-war-and-cold-war-9781472532169/\" target=\"_blank\">Churchill and the bomb</a>, by <a href=\"https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/history/research-profiles/kevin-ruane.aspx\" target=\"_blank\">Kevin Ruane</a>. A thumping good read. I advised on the science part.</p><p><br></p><p>Light-Sheet Fluorescence Microscopy Conference 2016. Conference report. InFocus, Issue 44, December 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NmZlMGFjOGI1MWRhOTQyYQ\" target=\"_blank\">PDF</a></p><p><br></p><p>Live long and prosper: The beauty and power of light-sheet microscopy. Article for news-medical.net, Nov 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6MmNmMzQxNjkyYjVmMDI3Yg\" target=\"_blank\">PDF</a></p><p><br></p><p>Looking at life as it unfolds. <a href=\"https://www.youtube.com/watch?v=nEPulUo_coU\" target=\"_blank\">TEDx talk</a>. July 2015.</p><p><br></p><p>Light sheets converged in Barcelona for their first open conference. Event report. G.I.T. Imaging &amp; Microscopy, April 2014. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NjRmYWJlMmZkZjNkNWJkYQ\" target=\"_blank\">PDF</a></p>"
+        }
+      ]
+    },
+    "people.html": {
+      "settings": {
+        "title": "people",
+        "meta_descr": "people"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/seal-128x128-69.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mailto:plaissue@essex.ac.uk\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LAISSUE LAB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"research.html\">RESEARCH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"publications.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PUBLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"publications.html\">Peer-reviewed &amp; conference</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"popular.html\">Popular science &amp; reports</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Science history<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"people.html\" aria-expanded=\"true\">PEOPLE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">L-SPI</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Collaborators</b></p><p>University of Essex:</p><p>Prof Phil Mullineaux&nbsp;</p><p>Dr Greg Brooke</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Boyd McKew</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Corinne Whitby</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof David Smith</span></p><p><br></p><p>External:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Dan Mulvihill, University of Kent, UK</span><br></p><p>Dr Loretta Roberson, Marine Biological Laboratory, Woods Hole, US</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Hari Shroff, National Institute of Biomedical Imaging and Bioengineering, US</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof Amy Gladfelter, University of North Carolina, US</span></p><p><br></p><p><b>Group</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Marino Exposito-Rodriguez, PhD (Post-Doc, with Prof Phil Mullineaux, University of Essex)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rana Alghamdi, PhD</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amna Allafi, PhD (with Dr Greg Brooke, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Alumni</b></p><p>Post-Doc: </p><p>Kieron South, PhD<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;(co-supervised with Dr Phil Reeves, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">PhD:</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pallavi Jain, PhD (</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">co-supervised with Prof Nelson Fernandez, University of Essex)&nbsp;</span></p><p>Asma Jabeen, PhD (co-supervised with Prof Nelson Fernandez, University of Essex)</p><p>Mohammad R. N. Avanaki, PhD (with Dr Ali Hojjat, University of Kent)</p><p><br></p><p>MSc:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sophie Stephenson (with Prof David Smith, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tania McKay (with Prof Tracy Lawson, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natalie James</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rebekah Weatherhead</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aidan Cooke</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Woodrow</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jin Ah Park</span><br></p><p><br></p><p><br></p>"
         }
       ]
     }
