@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "research.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "3.12.1",
     "name": "My Site",
@@ -53,10 +53,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -98,7 +98,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -316,10 +316,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -361,7 +361,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -550,10 +550,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -595,7 +595,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1036,10 +1036,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1081,7 +1081,7 @@
           "_anchor": "menu-9",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1151,10 +1151,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1196,7 +1196,7 @@
           "_anchor": "menu-c",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1279,10 +1279,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1324,7 +1324,7 @@
           "_anchor": "menu-f",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1407,10 +1407,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1452,7 +1452,7 @@
           "_anchor": "menu-i",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
