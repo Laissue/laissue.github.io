@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "publications.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.4.0",
     "name": "laissue-2017",
@@ -763,7 +763,7 @@
               "authorBio": ""
             },
             {
-              "text": "<p>Nelson CJ, Duckney P, Hawkins TJ, Deeks MJ, Laissue PP, Hussey PJ and Obara B. Blobs and Curves: Object-Based Colocalisation for Plant Cells. Functional Plant Biology 42(5): 471-485.</p>",
+              "text": "<p>Nelson CJ, Duckney P, Hawkins TJ, Deeks MJ, Laissue PP, Hussey PJ, Obara B (2015). Blobs and curves: object-based colocalisation for plant cells. Functional Plant Biology 42, 471–485.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/blobs-thumb-160x150.jpg",
