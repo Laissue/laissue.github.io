@@ -547,7 +547,7 @@
             "showImages": true,
             "showName": true,
             "showBio": false,
-            "count": "1",
+            "count": "2",
             "paddingTop": 3,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -565,10 +565,27 @@
             {
               "authorName": "<a href=\"http://www.mdpi.com/2223-7747/6/4/55\" target=\"_blank\">pdf</a>",
               "authorBio": "User",
-              "text": "<p>Exposito-Rodriguez M, Laissue PP, López-Calcagno PE, Mullineaux PM, Raines CA,\r&nbsp;<span style=\"font-size: 1.125rem;\">Simkin AJ. Development of pGEMINI, a Plant Gateway Destination Vector Allowing&nbsp;</span><span style=\"font-size: 1.125rem;\">the Simultaneous Integration of Two cDNA via a Single LR-Clonase Reaction. Plants&nbsp;</span><span style=\"font-size: 1.125rem;\">(Basel). 2017 Nov 12;6(4). pii: E55. doi: 10.3390/plants6040055. PubMed PMID:&nbsp;</span><span style=\"font-size: 1.125rem;\">29137147.</span></p>",
+              "text": "<p>Exposito-Rodriguez M, Laissue PP, López-Calcagno PE, Mullineaux PM, Raines CA,\n&nbsp;<span style=\"font-size: 1.125rem;\">Simkin AJ. Development of pGEMINI, a Plant Gateway Destination Vector Allowing&nbsp;</span><span style=\"font-size: 1.125rem;\">the Simultaneous Integration of Two cDNA via a Single LR-Clonase Reaction. Plants&nbsp;</span><span style=\"font-size: 1.125rem;\">(Basel). 2017 Nov 12;6(4). pii: E55. doi: 10.3390/plants6040055. PubMed PMID:&nbsp;</span><span style=\"font-size: 1.125rem;\">29137147.</span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/simkin-158x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "no pdf yet",
+              "authorBio": "User",
+              "text": "<p>PM Mullineaux, M Exposito-Rodriguez, PP Laissue, N Smirnoff\n. ROS-dependent signaling pathways in plants and algae exposed to high light: Comparisons with other eukaryotes\n.&nbsp;<span style=\"font-size: 1.125rem;\">Free Radical Biology and Medicine.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/fig2-end-160x118.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -587,7 +604,7 @@
           "_anchor": "testimonials2-u",
           "_styles": {
             ".card-footer > div": {
-              "color": "#faaf40"
+              "color": "#cccccc"
             }
           }
         },
