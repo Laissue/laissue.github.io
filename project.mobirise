@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "popular.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.4.0",
     "name": "laissue-2017",
@@ -195,7 +195,7 @@
             }
           },
           "title": "PHILIPPE LAISSUE",
-          "text": "Research Fellow<br>Bioimaging Facility Director, University of Essex<br>",
+          "text": "Lecturer in Bioimaging<br>Bioimaging Facility Director<br>University of Essex<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1325,7 +1325,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"http://www.bloomsbury.com/uk/churchill-and-the-bomb-in-war-and-cold-war-9781472532169/\" target=\"_blank\">Churchill and the bomb</a>, by <a href=\"https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/history/research-profiles/kevin-ruane.aspx\" target=\"_blank\">Kevin Ruane</a>. A thumping good read. I advised on the science part.</p><p><br></p><p></p><p></p><p></p><p>Light-Sheet Fluorescence Microscopy Conference 2016. Conference report. InFocus, Issue 44, December 2016. <a href=\"https://drive.google.com/open?id=1TI356S9oZ0SfFVTQCWnBu6lnVWz4uxPW\" target=\"_blank\">PDF</a></p><p><br></p><p>Live long and prosper: The beauty and power of light-sheet microscopy. Article for news-medical.net, Nov 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6MmNmMzQxNjkyYjVmMDI3Yg\" target=\"_blank\">PDF</a></p><p><br></p><p>Looking at life as it unfolds. <a href=\"https://www.youtube.com/watch?v=nEPulUo_coU\" target=\"_blank\">TEDx talk</a>. July 2015.</p><p><br></p><p>Light sheets converged in Barcelona for their first open conference. Event report. G.I.T. Imaging &amp; Microscopy, April 2014. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NjRmYWJlMmZkZjNkNWJkYQ\" target=\"_blank\">PDF</a></p>"
+          "text": "<p>Do No Harm, a lab focus by Jessica Poole, by Kevin Ruane. A thumping good read. I advised on the science part.</p><p><br></p><p><a href=\"http://www.bloomsbury.com/uk/churchill-and-the-bomb-in-war-and-cold-war-9781472532169/\" target=\"_blank\">Churchill and the bomb</a>, by <a href=\"https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/history/research-profiles/kevin-ruane.aspx\" target=\"_blank\">Kevin Ruane</a>. A thumping good read. I advised on the science part.</p><p><br></p><p></p><p></p><p></p><p>Light-Sheet Fluorescence Microscopy Conference 2016. Conference report. InFocus, Issue 44, December 2016. <a href=\"https://drive.google.com/open?id=1TI356S9oZ0SfFVTQCWnBu6lnVWz4uxPW\" target=\"_blank\">PDF</a></p><p><br></p><p>Live long and prosper: The beauty and power of light-sheet microscopy. Article for news-medical.net, Nov 2016. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6MmNmMzQxNjkyYjVmMDI3Yg\" target=\"_blank\">PDF</a></p><p><br></p><p>Looking at life as it unfolds. <a href=\"https://www.youtube.com/watch?v=nEPulUo_coU\" target=\"_blank\">TEDx talk</a>. July 2015.</p><p><br></p><p>Light sheets converged in Barcelona for their first open conference. Event report. G.I.T. Imaging &amp; Microscopy, April 2014. <a href=\"https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxsYWlzc3VlcHB8Z3g6NjRmYWJlMmZkZjNkNWJkYQ\" target=\"_blank\">PDF</a></p>"
         }
       ]
     },
