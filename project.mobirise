@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "people.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.9.7",
     "name": "laissue-2017",
@@ -217,10 +217,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0005-layer-5-2000x1336-17-2000x1336-98.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0005-layer-5-2000x1336-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0005-layer-1-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0005-layer-1-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -242,7 +244,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0004-layer-2-799x534-799x534.jpg",
                 "image": "@PROJECT_PATH@/assets/images/welc-800x534-0004-layer-2-799x534.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -251,50 +253,60 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0006-layer-4-2000x1336-0-2000x1336-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0006-layer-4-2000x1336-0.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0002-layer-4-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0002-layer-4-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0000-layer-10-2000x1336-97-2000x1336-59.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0000-layer-10-2000x1336-97.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-9-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-9-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0009-layer-1-2000x1336-90-2000x1336-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0009-layer-1-2000x1336-90.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0005-layer-8-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0005-layer-8-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0003-layer-7-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0003-layer-7-2000x1336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-8-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-8-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0011-calset-07x-40um-rg-sqr-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0011-calset-07x-40um-rg-sqr-2000x1336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-10-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0000-layer-10-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               }
             ]
           },
@@ -1474,7 +1486,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Collaborators</b></p><p><i>University of Essex:</i></p><p>Prof Phil Mullineaux&nbsp;</p><p>Dr Greg Brooke</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Boyd McKew</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Corinne Whitby</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof David Smith</span></p><p><br></p><p><i>External:</i>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Boguslaw Obara, Durham University, UK</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Dan Mulvihill, University of Kent, UK</span><br></p><p>Dr Loretta Roberson, Marine Biological Laboratory, Woods Hole, US</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Hari Shroff, National Institute of Biomedical Imaging and Bioengineering, US</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof Amy Gladfelter, University of North Carolina, US</span></p><p><br></p><p><b>Group</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Marino Exposito-Rodriguez, PhD (Post-Doc, with Prof Phil Mullineaux, University of Essex)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rana Alghamdi, PhD</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amna Allafi, PhD (with Dr Greg Brooke, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Alumni</b></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">PhD:</i><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pallavi Jain, PhD (</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">co-supervised with Prof Nelson Fernandez, University of Essex)&nbsp;</span></p><p>Asma Jabeen, PhD (co-supervised with Prof Nelson Fernandez, University of Essex)</p><p>Mohammad R. N. Avanaki, PhD (with Dr Ali Hojjat, University of Kent)</p><p><br></p><p><i>MSc:</i></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sophie Stephenson (with Prof David Smith, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tania McKay (with Prof Tracy Lawson, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natalie James</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rebekah Weatherhead</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aidan Cooke</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Woodrow</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jin Ah Park</span></p>"
+          "text": "<p><b style=\"font-size: 1.07rem;\">Collaborators</b><br></p><p><i>University of Essex:</i></p><p>Prof Phil Mullineaux</p><p><span style=\"font-size: 1.07rem;\">Dr Greg Brooke</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Boyd McKew</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Corinne Whitby</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof David Smith</span></p><p><br></p><p><i>External:</i>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><span style=\"font-size: 1.07rem;\">Dr Loretta Roberson, Marine Biological Laboratory, Woods Hole, US</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prof Amy Gladfelter, University of North Carolina, US</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Hari Shroff, National Institute of Biomedical Imaging and Bioengineering, US</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Abhishek Kumar\n,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">MBL-CZI Imaging Scientist&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Dan Mulvihill, University of Kent, UK</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dr Boguslaw Obara, Durham University, UK</span></p><p><br></p><p><br></p><p><b>Group</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Marino Exposito-Rodriguez, PhD (Post-Doc, with Prof Phil Mullineaux, University of Essex)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rana Alghamdi, PhD</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Amna Allafi, PhD (with Dr Greg Brooke, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><b>Alumni</b></p><p><i style=\"font-size: 1.07rem; line-height: 1.5;\">PhD:</i><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pallavi Jain, PhD (</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">co-supervised with Prof Nelson Fernandez, University of Essex)&nbsp;</span></p><p>Asma Jabeen, PhD (co-supervised with Prof Nelson Fernandez, University of Essex)</p><p>Mohammad R. N. Avanaki, PhD (with Dr Ali Hojjat, University of Kent)</p><p><br></p><p><i>MSc:</i></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sophie Stephenson (with Prof David Smith, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tania McKay (with Prof Tracy Lawson, University of Essex)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natalie James</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rebekah Weatherhead</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Aidan Cooke</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Woodrow</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Jin Ah Park</span></p>"
         }
       ]
     },
