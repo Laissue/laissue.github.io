@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "publications.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.9.7",
     "name": "laissue-2017",
@@ -449,14 +449,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coral-edge-600x404.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acro-20x-600x491.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "Non-traditional model organisms",
@@ -465,19 +464,18 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/20170616-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/blueprint-forpaper-v3-grouped-600x650.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title2": "Instrument design",
           "subtitle2": "",
-          "caption2": "I have developed a light-sheet fluorescence microscope for micro- to macroscopic imaging of large samples with minimal photodamage. Together with Cairn Research UK, we have produced a commercial version, which we are extensively testing.<br>",
+          "caption2": "I have developed a light-sheet fluorescence microscope for micro- to macroscopic imaging of large samples with minimal photodamage.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
