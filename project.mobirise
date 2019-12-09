@@ -163,7 +163,7 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -227,20 +227,24 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0007-layer-3-2000x1336-46-2000x1336-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0007-layer-3-2000x1336-46.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0003-layer-3-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0003-layer-3-799x534.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/welc-0008-layer-2-2000x1336-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/welc-0008-layer-2-2000x1336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/welc-800x534-0004-layer-2-799x534-799x534.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welc-800x534-0004-layer-2-799x534.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Beautiful",
