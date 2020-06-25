@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "people.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.9.7",
     "name": "laissue-2017",
@@ -177,11 +177,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/website-logo-1400x1395.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lsfm2018-logo-v3-flat-1400x1386.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -196,7 +195,7 @@
             }
           },
           "title": "PHILIPPE LAISSUE",
-          "text": "Lecturer in Bioimaging<br>Bioimaging Facility Director, University of Essex<br>Whitman Center Fellow, MBL Woods Hole<br><br>",
+          "text": "Lecturer in Bioimaging<br>University of Essex, UK<br><br>Paper out now:<br>&nbsp;<a href=\"https://rdcu.be/b5aF0\" target=\"_blank\">Light-sheet microscopy for corals</a><br>Along with a short <a href=\"https://www.youtube.com/watch?v=OSsbpLZCF1I\" target=\"_blank\">video summary</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
